@@ -1,0 +1,108 @@
+# ── GALAXY PROFILE CONFIG ─────────────────────────────────────
+# Stefan Souza Cruz — Product Owner com DNA técnico
+# ──────────────────────────────────────────────────────────────
+
+username: Stefan0212
+
+profile:
+  name: Stefan Souza Cruz
+  tagline: Product Owner com DNA técnico
+  company: Safran Cabin
+  location: Jacareí, SP — Brasil
+  bio: >
+    Unindo visão estratégica e execução ágil para escalar produtos e superar metas. 
+    Background em desenvolvimento, coração em produto.
+  philosophy: >
+    Bons produtos nascem de times que se comunicam bem —
+    e é aí que meu background técnico faz diferença.
+
+social:
+  email: stefancruz08@gmail.com
+  linkedin: https://www.linkedin.com/in/stefan-souza/
+  website: https://fatec-jacarei-dsm-portfolio.github.io/ra2581392423024/
+
+# ── GALAXY ARMS (3 áreas de foco) ────────────────────────────
+# Cores disponíveis: synapse_cyan | dendrite_violet | axon_amber
+
+galaxy_arms:
+  - name: Produto & Gestão
+    color: axon_amber
+    items:
+      - Product Owner
+      - Scrum Master
+      - User Stories
+      - Backlog Refinement
+      - Discovery
+      - Priorização
+
+  - name: Tecnologia
+    color: synapse_cyan
+    items:
+      - JavaScript
+      - TypeScript
+      - React
+      - SQL
+      - Git
+      - GitHub
+      - MongoDB
+
+  - name: Ferramentas
+    color: dendrite_violet
+    items:
+      - Notion
+      - Figma
+      - Trello
+      - VS Code
+      - Scrum
+      - Kanban
+
+# ── PROJETOS EM DESTAQUE ──────────────────────────────────────
+projects:
+  - repo: Projeto-Odin
+    arm: 1
+    description: >
+      Plataforma de dados geoespaciais com análise de satélites e índice NDVI.
+      Desenvolvido como Backend Developer no 3º semestre da Fatec — Melhor Projeto da turma no 3º semestre.
+
+  - repo: WildFireExplore
+    arm: 0
+    description: >
+      Aplicação de visualização de focos de queimadas com dados do INPE.
+      Atuei como Scrum Master — Melhor Projeto da turma no 2º semestre.
+
+  - repo: Plataforma-Scrum
+    arm: 0
+    description: >
+      Ferramenta educacional sobre metodologias ágeis.
+      Scrum Master responsável por implantar cultura ágil do zero.
+
+# ── ESTATÍSTICAS ─────────────────────────────────────────────
+stats:
+  metrics:
+    - commits
+    - stars
+    - prs
+    - issues
+    - repos
+
+# ── LINGUAGENS ───────────────────────────────────────────────
+languages:
+  exclude:
+    - HTML
+    - CSS
+    - JavaScript
+    - TypeScript
+  max_display: 6
+
+# ── TEMA (paleta espacial) ────────────────────────────────────
+# Mantém o tema padrão de galáxia escura com toques âmbar
+theme:
+  deep_space: "#0a0a0f"
+  nebula_dark: "#0f0f1a"
+  star_white: "#e8e8f0"
+  accent_primary: "#D4601A"
+  accent_secondary: "#00bfff"
+  accent_tertiary: "#9d4edd"
+  grid_line: "#1a1a2e"
+  text_muted: "#6b6b80"
+  glow_color: "#D4601A"
