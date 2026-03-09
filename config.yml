@@ -97,12 +97,12 @@ languages:
 # ── TEMA (paleta espacial) ────────────────────────────────────
 # Mantém o tema padrão de galáxia escura com toques âmbar
 theme:
-  deep_space: "#0a0a0f"
-  nebula_dark: "#0f0f1a"
-  star_white: "#e8e8f0"
-  accent_primary: "#D4601A"
-  accent_secondary: "#00bfff"
-  accent_tertiary: "#9d4edd"
-  grid_line: "#1a1a2e"
-  text_muted: "#6b6b80"
-  glow_color: "#D4601A"
+  deep_space: "#0a0608"        # fundo escuro com leve tom avermelhado
+  nebula_dark: "#120a0f"       # nebulosa escura, roxo-acastanhado
+  star_white: "#f5f0e8"        # branco suave — cor geral da Via Láctea
+  accent_primary: "#c8793a"    # núcleo: alaranjado/avermelhado das estrelas velhas
+  accent_secondary: "#6ab4e8"  # braços espirais: azulado das estrelas jovens
+  accent_tertiary: "#e8c4a0"   # halo: amarelado/creme das estrelas antigas
+  grid_line: "#1a0f14"         # grade sutil com tom escuro avermelhado
+  text_muted: "#7a6b72"        # texto secundário acastanhado
+  glow_color: "#c8793a"        # brilho do núcleo: alaranjado quente
