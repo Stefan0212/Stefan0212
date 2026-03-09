@@ -67,17 +67,28 @@ Falo a língua do time de dev — porque fui um deles.
 <!-- HABILIDADES -->
 ## 🧠 O que eu faço
 
-<div align="center">
+### 🎯 Produto & Gestão
+![Product Owner](https://img.shields.io/badge/Product%20Owner-D4601A?style=for-the-badge&logoColor=white)
+![Scrum Master](https://img.shields.io/badge/Scrum%20Master-E07B39?style=for-the-badge&logoColor=white)
+![User Stories](https://img.shields.io/badge/User%20Stories-C45518?style=for-the-badge&logoColor=white)
+![Discovery](https://img.shields.io/badge/Discovery%20%26%20Research-B8440F?style=for-the-badge&logoColor=white)
+![Priorização](https://img.shields.io/badge/Prioriza%C3%A7%C3%A3o-A03A0A?style=for-the-badge&logoColor=white)
 
-| Produto & Gestão | Tecnologia | Ferramentas |
-|:---:|:---:|:---:|
-| Product Owner | JavaScript / TypeScript | Notion |
-| Scrum Master | React | Figma |
-| User Stories | SQL | Trello |
-| Discovery & Research | GitHub | VS Code |
-| Priorização | Node.js | Scrum / Kanban |
+### 💻 Tecnologia
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-</div>
+### 🛠️ Ferramentas
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logoColor=white)
+![Kanban](https://img.shields.io/badge/Kanban-0079BF?style=for-the-badge&logoColor=white)
 
 ---
 
