@@ -1,12 +1,12 @@
 # ── GALAXY PROFILE CONFIG ─────────────────────────────────────
-# Stefan Souza Cruz — Product Owner com DNA técnico
+# Stefan Souza Cruz — Product Owner
 # ──────────────────────────────────────────────────────────────
 
 username: Stefan0212
 
 profile:
   name: Stefan Souza Cruz
-  tagline: Product Owner com DNA técnico
+  tagline: Product Owner
   company: Safran Cabin
   location: Jacareí, SP — Brasil
   bio: >
@@ -42,7 +42,7 @@ galaxy_arms:
       - TypeScript
       - React
       - SQL
-      - Git
+      - Node.Js
       - GitHub
       - MongoDB
 
