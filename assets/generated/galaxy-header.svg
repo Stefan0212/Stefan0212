@@ -324,8 +324,8 @@
       <animate attributeName="opacity" values="0.85;1;0.85" dur="5s" begin="2.8s" repeatCount="indefinite"/>
     </circle>
     <line x1="562.0" y1="124.6" x2="579.6" y2="120.7" stroke="#00d4ff" stroke-width="0.5" opacity="0.25" stroke-dasharray="2 2"/>
-    <text x="579.6" y="123.7" text-anchor="start" fill="#00d4ff" font-size="9" font-family="monospace" opacity="0.2" filter="url(#label-glow)">Git</text>
-    <text x="579.6" y="123.7" text-anchor="start" fill="#00d4ff" font-size="9" font-family="monospace" opacity="0.85">Git</text>
+    <text x="579.6" y="123.7" text-anchor="start" fill="#00d4ff" font-size="9" font-family="monospace" opacity="0.2" filter="url(#label-glow)">Node.Js</text>
+    <text x="579.6" y="123.7" text-anchor="start" fill="#00d4ff" font-size="9" font-family="monospace" opacity="0.85">Node.Js</text>
     <circle cx="617.4" cy="137.2" r="2.5" fill="#00d4ff" opacity="0.85">
       <animate attributeName="opacity" values="0.85;1;0.85" dur="5s" begin="3.5s" repeatCount="indefinite"/>
     </circle>
@@ -412,7 +412,7 @@
 
   <!-- 12. Profile text -->
   <text x="425" y="26" text-anchor="middle" fill="#f1f5f9" font-size="20" font-weight="bold" font-family="sans-serif">Stefan Souza Cruz</text>
-  <text x="425" y="44" text-anchor="middle" fill="#94a3b8" font-size="12" font-family="sans-serif">Product Owner com DNA técnico</text>
+  <text x="425" y="44" text-anchor="middle" fill="#94a3b8" font-size="12" font-family="sans-serif">Product Owner</text>
   <text x="425" y="268" text-anchor="middle" fill="#64748b" font-size="11" font-family="monospace" font-style="italic">Bons produtos nascem de times que se comunicam bem — e é aí que meu background técnico faz diferença.
 </text>
 </svg>
