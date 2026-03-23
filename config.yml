@@ -92,6 +92,8 @@ languages:
     - CSS
     - JavaScript
     - TypeScript
+    - Python
+    - C++
   max_display: 6
 
 # ── TEMA (paleta espacial) ────────────────────────────────────
