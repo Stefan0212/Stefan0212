@@ -13,7 +13,6 @@
 **Product Owner** em transição — com background em desenvolvimento de software e estágio na **Safran Cabin** (Airbus · Boeing · Embraer).
 
 Conecto negócio, usuário e tecnologia para construir produtos que fazem sentido.  
-Falo a língua do time de dev — porque fui um deles.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-stefan--souza-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stefan-souza/)
 [![GitHub](https://img.shields.io/badge/GitHub-Stefan0212-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Stefan0212)
