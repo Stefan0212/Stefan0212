@@ -10,7 +10,7 @@
 
 ### 👋 Olá, eu sou o Stefan!
 
-**Product Owner** em transição — com background em desenvolvimento de software e estágio na **Safran Cabin** (Airbus · Boeing · Embraer).
+**Product Owner** — com background em desenvolvimento de software e estágio na **Safran Cabin** (Airbus · Boeing · Embraer).
 
 Conecto negócio, usuário e tecnologia para construir produtos que fazem sentido.  
 
